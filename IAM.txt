@@ -1,0 +1,14 @@
+Question: How is a resource in OCI identified?
+Answer:OCID
+
+Question: Which is NOT a valid statement regarding OCI Compartments?
+Answer:Compartments are restricted to a single region.
+
+Question: Which is NOT a valid method for authenticating a Principal in OCI Identity and Access Management (IAM) service?
+Answer:OCI Vault Master Encryption Keys
+
+Question: Which statement is true about OCI Identity and Access Management (IAM)?
+Answer:It is used to control access to resources.
+
+Question: Which feature of OCI Identity and Access Management (IAM) service specifies authorization for various actions for authenticated Principals?
+Answer:Policy
