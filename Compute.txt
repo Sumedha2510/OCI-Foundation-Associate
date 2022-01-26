@@ -1,0 +1,16 @@
+Question: Which is NOT a valid compute shape option within the OCI compute service?
+Answer: Container Instance
+
+Question: You have a web application that receives 10X more traffic on the weekends than weekdays. 
+You need to automatically match capacity to demand, keep the application always up and running, and save cost.
+Which OCI compute feature can be used to meet these requirements?
+Answer: Autoscaling
+
+Question: Which statement is true about OCI Compute Service?
+Answer: It provides options to create Bare Metal or a Virtual Machine instance.
+
+Question: Which parameter is NOT modifiable?
+Answer: Primary Private IP address
+
+Question: Which is a feature of the OCI OS Management Service?
+Answer: Automated Patch Management
