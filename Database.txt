@@ -1,0 +1,14 @@
+Question: Which task is NOT performed by default by an Autonomous Database?
+Answer: Data Loading
+
+Question: Which fully managed database would you use to achieve a single-digit millisecond latency with high performance workloads?
+Answer: NoSQL
+
+Question: Which infrastructure option is available for creating and managing an Autonomous Database?
+Answer: Dedicated Infrastructure
+
+Question: Which types of DB Systems is NOT available in OCI?
+Answer: ATP DB System
+
+Question: Which database edition would you use to launch a two-node Oracle RAC DB System?
+Answer: Oracle Enterprise Edition - Extreme Performance
