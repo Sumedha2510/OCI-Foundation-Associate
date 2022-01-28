@@ -1,0 +1,16 @@
+Question: Which components are created by default with the creation of a virtual cloud network (VCN)? (Choose three)
+Answer: Default route table, with no route rules
+        Default set of DHCP options, with default values
+        Default security list, with default security rules
+
+Question: Which virtual cloud network (VCN) component enables both inbound and outbound traffic between a VCN and the internet?
+Answer: Internet Gateway
+
+Question: Which virtual cloud network (VCN) component blocks inbound traffic, but enables outbound traffic to the internet?
+Answer: NAT Gateway
+
+Question: Which statement is true about a virtual cloud network (VCN)?
+Answer: Each subnet in a VCN can exist in a single availability domain or across an entire region.
+
+Question:Which statements are true about the Oracle Cloud Infrastructure (OCI) Load Balancing service?
+Answer: It distributes traffic to different backend servers in a virtual cloud network (VCN).
