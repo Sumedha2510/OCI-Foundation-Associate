@@ -1,0 +1,15 @@
+Question: Which statement is valid for OCI Container Registry (OCIR)?
+Answer: A single registry can contain both private and public Docker repositories.
+
+Question: Which is not a characteristic of the OCI API Gateway service?
+Answer: It provides a deployment platform for your API implementations.
+
+Question: Which OCI service leverages Terraform to enable Infrastructure-as-code?
+Answer: Resource Manager
+
+Question: Which OCI service lets you to run code without provisioning any underlying infrastructure such as virtual machines?
+Answer: Oracle Functions
+
+Question: A banking platform has been re-designed to a Microservices-based architecture using Docker containers. 
+Which OCI service should be used for deployment of these new Microservices?
+Answer: Oracle Container Engine for Kubernetes
