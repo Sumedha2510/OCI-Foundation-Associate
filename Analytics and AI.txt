@@ -1,0 +1,17 @@
+Question: Your client needs to move their Extract-Transform-Load (ETL) process to Oracle Cloud Infrastructure (OCI). They want to take a no-code approach.
+Which OCI service should you recommend?
+Answer: Data Intergration
+
+Question:  Which is a capability of the OCI Data Catalog service?
+Answer: It provides a repository of searchable metadata.
+
+Question: Which statement correctly describe the OCI Accelerated Data Science SDK?
+Answer: It is a Python library that makes common tasks faster, easier, and less error prone.
+
+Question: Your organization consumes and analyzes data from a wide variety of sources. Many departments are struggling with finding trusted data sources.
+Which OCI service should you use to harvest the metadata and provide a central repository?
+Answer: Data Catalog
+
+Question: Your organization has a Spark application that sometimes consumes a large amount of compute resources. You need to run this on OCI.
+Which OCI service can be used to meet this requirement?
+Answer: Data Flow
