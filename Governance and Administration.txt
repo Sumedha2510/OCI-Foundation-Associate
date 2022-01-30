@@ -1,0 +1,11 @@
+Question: Which is a factor that impact OCI pricing?
+Answer: Resource Type
+
+Question: Which Pricing model is supported by OCI?
+Answer: Pay As You Go
+
+Question: Which types of traffic is charged under the data transfer cost?
+Answer: Egress is charged to and from the internet
+
+Question: Which is a valid target for setting OCI budgets?
+Answer: Compartment
