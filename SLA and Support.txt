@@ -1,0 +1,15 @@
+Question: Which of the following is not covered in OCI SLAs?
+Answer: Reliability
+
+Question: Which statement correctly describe OCI Service Level Agreements?
+Answer: Defined as a number of nines for a month and a percentage credit.
+
+Question: You are facing an issue with the DB system in your tenancy and you want to raise a service request with Oracle Support.
+As a customer, which information is not required to log a service request?
+Answer: DB System IP
+
+Question: Which type of SLA is not offered by the OCI Compute service?
+Answer: Application Plane
+
+Question: Which type of OCI account allows opening a support ticket?
+Answer: Paid Account
