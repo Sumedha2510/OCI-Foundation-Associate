@@ -1,0 +1,15 @@
+Question: Which Oracle offering lets a customer provision OCI services into their own data centers in a self-contained model, achieving the same architecture and billing as the 
+OCI public cloud?
+Answer: OCI Dedicated Region
+
+Question: What is NOT a primary use case for the Oracle Cloud VMware Solution?
+Answer: Hyper-V workloads
+
+Question: Oracle Cloud VMware Solution uses what type of compute shapes?
+Answer: Bare Metal
+
+Question: What is NOT a capability of an Oracle Dedicated Region Cloud@Customer?
+Answer: High latency
+
+Question: Which is NOT a desired scenario to use Oracle Dedicated Region Cloud@Customer?
+Answer: To run a publicly accessible e-commerce site with varying demand pattern
