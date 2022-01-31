@@ -1,0 +1,29 @@
+Question: Which statement is true about a Virtual Cloud Network (VCN)?
+Answer: A subnet for a VCN can be regional
+
+Question: Which of these is customer's responsibilities in the shared responsibilities model for security?
+Answer: Identity and access management 
+
+Question: Which Oracle Cloud Infrastructure service should you use to manage metadata support data governance?
+Answer: Data Catalog
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
+
+Question: 
+Answer: 
