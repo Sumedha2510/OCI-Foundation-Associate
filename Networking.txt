@@ -12,5 +12,5 @@ Answer: NAT Gateway
 Question: Which statement is true about a virtual cloud network (VCN)?
 Answer: Each subnet in a VCN can exist in a single availability domain or across an entire region.
 
-Question:Which statements are true about the Oracle Cloud Infrastructure (OCI) Load Balancing service?
+Question: Which statements are true about the Oracle Cloud Infrastructure (OCI) Load Balancing service?
 Answer: It distributes traffic to different backend servers in a virtual cloud network (VCN).
