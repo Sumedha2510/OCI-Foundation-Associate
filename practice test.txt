@@ -1,29 +1,79 @@
+Question: What is the IAM service feature that enables instances to be authorized actors (or principals) called?
+Answer: Instance Principals
+
+ Question: Which OCI service should you use to run Apache Spark applications?
+Answer: Data Flow
+
+Question: In the context of compute, what does vertical scaling mean?
+Answer: Changing to a larger or smaller shape
+
 Question: Which statement is true about a Virtual Cloud Network (VCN)?
 Answer: A subnet for a VCN can be regional
 
+Question: You want to perform advanced analysis of the log data to find potential issues, detect anomalies, and fix the issues.
+Which Observability and Management service would you use to monitor them?
+Answer: Logging Analytics
+
+Question: Which of these is correct for opening an Oracle Support Service Request?
+Answer: Only Paid accounts can open service requests
+
+Question: You want to monitor the timing of high CPU usage by an application.
+Which Oracle Cloud Infrastructure (OCI) service should you use?
+Answer: Monitoring
+
+Question: Which statement is true about the Oracle Cloud Infrastructure (OCI) Object Storage service?
+Answer: It enables you to store or retrieve data directly from the Internet
+
+Question: Which pricing model is not available for Oracle Cloud Infrastructure?
+Answer: Weekly Flex
+
+Question: What is a benefit of an Oracle Cloud Dedicated Region?
+Answer: Security of the private cloud
+
 Question: Which of these is customer's responsibilities in the shared responsibilities model for security?
-Answer: Identity and access management 
+Answer: Identity and access management
+
+Question: Which task is performed by default by an Oracle Autonomous Database?
+Answer: Firmware Patching
+
+Question: You want to store and manage container images on Oracle Cloud Infrastructure (OCI) and you want to share them with the other developers working on the same application.
+Which service should you use?
+Answer: Oracle Cloud Infrastructure Registry
+
+Question: You want to use an orchestration service that can reduce time and cost to build modern cloud native applications.
+Which OCI service should you use for this?
+Answer: Container Engine for Kubernetes (OKE)
+
+Question: You have developed an application for your company and you want to deploy it in Oracle Cloud Infrastructure.
+How must you deploy the application to ensure the highest level of availability and resilience?
+Answer: Across multiple regions and availability domains
+
+Question: You need some Oracle Cloud Infrastructure (OCI) services to build an application; however, you do not want to pay upfront because the usage is not regular 
+and you want to be charged only for the services consumed.
+Which pricing model should you choose?
+Answer: Pay as you go
+
+Question: Which Exadata infrastructure option can you use for deploying an Oracle Autonomous Database?
+Answer: Dedicated Exadata infrastructure
 
 Question: Which Oracle Cloud Infrastructure service should you use to manage metadata support data governance?
 Answer: Data Catalog
 
-Question: 
-Answer: 
+Question: Which statement is true about a Web Application Firewall (WAF)?
+Answer: It intercepts HTTP/S traffic and passes it through a set of rules
 
-Question: 
-Answer: 
+Question: Which Virtual Cloud Network (VCN) component is created by using the Start VCN Wizard?
+Answer: Route Table
 
-Question: 
-Answer: 
+Question: Which statement is true about an Oracle Cloud Infrastructure (OCI) Compute instance?
+Answer: It always gets a private IP address
 
-Question: 
-Answer: 
+Question: Which statement is true about the Oracle Cloud Infrastructure Compute service?
+Answer: You can launch either virtual machines or bare metal instances
 
-Question: 
-Answer: 
+Question: You want to provide restricted and time-limited access to databases that don't have public endpoints.
+Which OCI service should you use to achieve this?
+Answer: Bastion
 
-Question: 
-Answer: 
-
-Question: 
-Answer: 
+Question: What Oracle Cloud Infrastructure (OCI) capability provides logical isolation for resources?
+Answer: Compartments
